@@ -1,0 +1,11 @@
+{
+  "name": "flatware-method-override",
+  "version": "0.1.0",
+  "author": {
+    "name": "Pedro Teixeira",
+    "email": "pedro.teixeira@gmail.com"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
